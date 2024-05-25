@@ -1,4 +1,4 @@
-# Ejercicios de Bucles en JavaScript
+# Bucles en JavaScript
 
 Este documento explica cómo se solucionó cada ejercicio de bucles en JavaScript.
 
